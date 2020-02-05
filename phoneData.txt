@@ -1,0 +1,63 @@
+ {   "name": "Redmi",
+     "model": "Redmi 4A"
+     "price" : 5999,
+     "image" :"mi.png",
+     "camera" : ["20mp","5mp"],
+     "processor" : "Snapdragon 425",
+     "battery":"3120 mAh",
+     "batteryDescription":"Li-ion type Up to 168 Hours(3G) for Standby Time and Up to 39.3 Hours(3G) for TalkTime",
+     "userComments":["Good phone to have","Battery drains-out early","Budget phone"]
+ },
+ {   "name": "Redmi",
+     "model": "Redmi note 7 pro"
+     "price" : 9999,
+     "image":"mi.png",
+     "camera" : ["48mp","5mp"],
+     "processor" : "Snapdragon 675",
+     "battery":"4000mAh",
+     "batteryDescription":"Li-ion Supports Qualcomm®? Quick Charge™? 4 technology Type-C charging port",
+     "userComments":["Good phone to have","Battery drains-out early","Budget phone"]
+ },
+ {   "name": "Apple",
+     "model": "Apple iPhone X"
+     "price" : 69999,
+     "image":"Iphone.png",
+     "camera" : ["12MP","7MP"],
+     "processor" : "Apple A11 Bionic(10nm)",
+     "battery":"2716mAh",
+     "batteryDescription":"Li-ion Supports Fast battery charging 15W: 50% in 30 min",
+     "userComments":["Good phone to have","Battery drains-out early","Costly phone","Worst phone"]
+ },
+{   "name": "Nokia"
+     "model": "Nokia 6"
+     "price" : 10990,
+     "image":"nokia.png",
+     "camera" : ["16MP","8MP"],
+     "processor" : "Qualcomm Snapdragon 430 MSM8937 Tru-Octa Core Processor",
+     "battery":"3000mAh",
+     "batteryDescription":"Li-ion Supports Fast battery charging 15W: 50% in 30 min",
+     "userComments":["Good phone to have","Battery drains-out early","Costly phone","Worst phone"]
+ },
+{   "name": "Realme"
+     "model": "Realme xt"
+     "price" : 10000,
+     "image":"samsung.png",
+     "camera" : ["64MP","16MP"],
+     "processor" : "Qualcomm Snapdragon 430 MSM8937 Tru-Octa Core Processor",
+     "battery":"4000mAh",
+     "batteryDescription":"Non-removable Li-Po 4000 mAh battery",
+     "userComments":["Good phone to have","Battery drains-out early","Costly phone","Worst phone"]
+ },
+{   "name": "Oppo"
+     "model": "Oppo K3"
+     "price" : 12000,
+     "image":"oppo.png",
+     "camera" : ["16MP","16MP"],
+     "processor" : "Qualcomm SDM710 Snapdragon 710 (10 nm)",
+     "battery":"4000mAh",
+     "batteryDescription":"Non-removable Li-Po 3765 mAh battery",
+     "userComments":["Good camera","Battery drains-out early","Budget phone","Worst phone"]
+ }
+
+
+
