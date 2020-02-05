@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+#impId{
+  font-size: 30px;
+  font:  Arial, sans-serif;
+  color: darkslategray;
+}
+#blur{
+  color:gray;
+  
+}
+#small{
+  font-size: 20px;
+  font:  Arial, sans-serif;
+  color:gray;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
